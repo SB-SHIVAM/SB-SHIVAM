@@ -4,29 +4,39 @@
     <b>Computer Science Student | Python Developer | AI & Agentic Workflow Enthusiast</b>
   </p>
   <p>
-    I explore the intersection of systems engineering and Generative AI, focusing on building intelligent, non-blocking, multi-agent systems .
+    I explore the intersection of systems engineering and Generative AI, focusing on building intelligent, non-blocking, multi-agent systems.
   </p>
 </div>
 
----.
+---
 
 ### 🧠 My Technical Arsenal
 
-I focus on the tools necessary to build robust AI backends.
+I focus on the tools necessary to build robust AI backends and data-driven applications.
 
-<div align="left">
-  <p>
-    <b>Core & Concurrency:</b><br>
-    <img src="https://skillicons.dev/icons?i=python,git,linux" alt="Python, Git, Linux" />
-  </p>
-  <p>
-    <b>AI, RAG & Vector DBs:</b><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ML Frameworks" /> 
-    <br>
-    Focus: Vector Embeddings, FAISS, txtai, Sentence Transformers, LLM Orchestration (Gemini)
-  </p>
-  <p>
-    <b>Architecture & Protocols:</b><br>
-    Asyncio, Model Context Protocol (MCP), JSON-RPC, REST APIs
-  </p>
-</div>
+#### Languages & Core Foundation
+Building reliable systems with strong foundations in OOP and database management.
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,git,linux,mysql" alt="Core Skills" />
+
+<br>
+
+#### AI, Data Science & Computer Vision
+Specializing in Deep Learning & NLP.
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv" alt="AI and Data Science Frameworks" />
+
+<br>
+
+#### Agentic AI & RAG Architecture
+While I use standard frameworks like **LangChain**, my passion lies in architecting custom solutions.
+
+* **Vector Search:** FAISS, txtai, Sentence Transformers for semantic retrieval.
+* **Orchestration Protocols:** Building async systems using the Model Context Protocol (MCP) and JSON-RPC.
+* **LLMs:** Leveraging Gemini and other models for complex reasoning tasks.
+
+<br>
+
+#### Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" />
